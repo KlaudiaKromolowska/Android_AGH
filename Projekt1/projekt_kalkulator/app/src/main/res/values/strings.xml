@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Klaudia_Kromolowska_sr_12_30</string>
+    <string name="showAnswer">0</string>
+    <string name="sqrt">&#x221A;</string>
+    <string name="proc">%</string>
+    <string name="clear">C</string>
+    <string name="questionmark">...</string>
+    <string name="div">	/</string>
+    <string name="mul">*</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="dot">.</string>
+    <string name="ans">=</string>
+</resources>
+
+

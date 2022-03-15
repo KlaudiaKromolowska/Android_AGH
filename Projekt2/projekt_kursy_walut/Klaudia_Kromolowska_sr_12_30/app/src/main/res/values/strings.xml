@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Klaudia_Kromolowska_sr_12_30</string>
+    <string name="title_activity_list_of_currencies">ListOfCurrencies</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="todayRateText">%1$f</string>
+    <string name="yesterdayRateText">%1$f</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hello_app">Hi! Choose what do you want to do :)</string>
+    <string name="gold_exchange_rate">Gold exchange rate</string>
+    <string name="currencies_echange_rates">currencies exchange rates</string>
+    <string name="exchange_currency">exchange currency</string>
+    <string name="todayGoldRateText">%1$f</string>
+    <string name="yesterdayGoldRateText">%1$f</string>
+    <string name="intoPLN">From CURRENCY into PLN</string>
+    <string name="fromPLN">From PLN into CURRENCY</string>
+    <string name="result">THE RESULT IS…</string>
+    <string name="exchange">EXCHANGE</string>
+    <string name="type_number">TYPE NUMBER</string>
+    <string name="textviewW">Last 7 days: </string>
+    <string name="textviewM">Last 30 days:</string>
+
+</resources>
